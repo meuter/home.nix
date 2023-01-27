@@ -1,0 +1,4 @@
+starship.toml
+git/
+environment.d/
+tmux/
